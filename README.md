@@ -1,2 +1,2 @@
 # Web-scrapping
-this is simple web scrapping done in the official website of DIT University , Dehradun using BeautifulSoup.
+This README provides an overview of how to perform web scraping, which is the process of extracting data from websites. Web scraping can be a valuable technique for collecting information from various sources on the internet.
